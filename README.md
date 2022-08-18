@@ -1,3 +1,3 @@
-#Sign up Form using REACT
+Sign up Form using REACT
 
-##a very simple sign up form using REACT
+a very simple sign up form using REACT
